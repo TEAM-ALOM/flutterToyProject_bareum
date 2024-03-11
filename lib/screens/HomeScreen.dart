@@ -16,7 +16,7 @@ class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.amberAccent[100],
+      backgroundColor: Colors.amberAccent[10],
 
       appBar: AppBar(
 
